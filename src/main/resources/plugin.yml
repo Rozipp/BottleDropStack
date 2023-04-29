@@ -1,0 +1,4 @@
+name: BottleDropStack
+version: '${project.version}'
+main: ua.rozipp.bottledropstack.BottleDropStack
+api-version: 1.16
